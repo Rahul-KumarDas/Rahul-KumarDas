@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2021/08/30/16/01/16-01-00-221_960_720.png" alt="cover" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
